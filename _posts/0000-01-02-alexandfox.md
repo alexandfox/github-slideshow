@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"don't be fooled" - phil
 Use the left arrow to go back!
